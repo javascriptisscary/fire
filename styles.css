@@ -40,16 +40,10 @@ body {
     font-size: 1.5em;
 }
 
+
 #email{
-    
-    
-    position: absolute;
-    bottom: 40px;
-    left:49.5%;
-    
+    margin-top:5%;
 }
-
-
 
 /* CONTENT */
 
