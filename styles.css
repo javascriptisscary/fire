@@ -1,0 +1,78 @@
+body {
+    
+    font-size: 18px;
+}
+
+#intro{
+    background: transparent url("img/matches2.jpg") no-repeat scroll left top / cover;
+    color: white;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    
+}
+
+
+#welcome {
+   margin-top:10%; 
+}
+
+
+
+#fire {
+    
+    color: red;
+    font-size: 15em;
+}
+
+.lato{
+    font-family: "lato", sans-serif;
+}
+
+
+
+#mail {
+    clear: both;
+    border-color: red;
+    border-radius: 50%;
+    font-size: 1.5em;
+}
+
+#email{
+    
+    
+    position: absolute;
+    bottom: 40px;
+    left:49.5%;
+    
+}
+
+
+
+/* CONTENT */
+
+#content {
+    background: white none repeat scroll 0% 0%;
+    width: 100%;
+    top: 100%;
+    position: absolute;
+    box-shadow: 0px 0px 15px grey;
+    z-index:100;
+}
+
+
+.content-glyphs {
+    margin-top:1%;
+    font-size: 5em;
+    color:black;
+    border: 1px solid red;
+    border-radius: 50%;
+}
+
+.line{
+    border-top: 1px solid silver;
+    box-shadow: 5px 5px 15px grey;
+    margin:3% auto;
+}
